@@ -6,9 +6,6 @@ Night Lilies MUD is a text-based game where players can explore a mystical world
 1. Clone this repository 🐑 : git clone https://github.com/seandinwiddie/night-lilies-mud.git
 2. Navigate to the project directory: cd night-lilies-mud
 3. Install dependencies w/ `npm install` 📥
-4. Set up the database: npm run db-setup
-5. Start the server: npm run start-server
-6. Start the client: npm run start-client
 7. Run the app w/ `expo start` 🏃
 
 ## MVP Plan 🎯
@@ -29,9 +26,9 @@ Implement User Stories
 
 ## Tech Stack 🛠️
 
-📱 Expo Go for the client-side mobile application
-🐘 Postgres for the database management system
-🌐 Haskell and Servant for the server-side API
+📱 Expo Go for the application
+🐘 lowdb, to store data in a JSON file, for the database management system
+🌐 Redux.js for the state
 🎨 React Native Elements for command-line style UI
 
 ## Gameplay Mechanics⚙️

@@ -18,5 +18,18 @@
   "bugs": {
     "url": "https://github.com/seandinwiddie/night-lilies-mud/issues"
   },
-  "homepage": "https://github.com/seandinwiddie/night-lilies-mud#readme"
+  "homepage": "https://github.com/seandinwiddie/night-lilies-mud#readme",
+  "dependencies": {
+    "expo": "^44.0.0",
+    "expo-constants": "^12.1.1",
+    "expo-status-bar": "~1.2.0",
+    "lowdb": "^2.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-native": "0.64.3",
+    "react-native-elements": "^3.4.2",
+    "react-native-web": "0.17.1",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2"
+  }
 }
