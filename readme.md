@@ -1,24 +1,24 @@
 # Night Lilies 👻🌺⚔🏰⚰️
 
-Night Lilies is a MUD 
+Night Lilies is a MUD
 
 ## Getting Started 🚀
 
-1 Clone this repository 🐑 
-2 Install dependencies w/ `npm install` 📥 
-3 Run the app w/ `expo start` 🏃 
+1. Clone this repository 🐑 
+2. Install dependencies w/ `npm install` 📥 
+3. Run the app w/ `expo start` 🏃 
 
 ## MVP Plan 🎯
 
 ### User Stories 📖
 
-1 As a player, I want to be able to:
-a create a Wraith: The Oblivion character 👤
-b move my character around the game world using text-based commands 🚶
-c interact w/ NPCs using text commands 🗣️
-d see a list of available commands and their descriptions 📜
-e see my character's status, including health and inventory 💪🎒
-f engage in combat w/ NPCs using text commands ⚔️
+1. As a player, I want to be able to:
+a. create a Wraith: The Oblivion character 👤
+b. move my character around the game world using text-based commands 🚶
+c. interact w/ NPCs using text commands 🗣️
+d. see a list of available commands and their descriptions 📜
+e. see my character's status, including health and inventory 💪🎒
+f. engage in combat w/ NPCs using text commands ⚔️
 
 ### Tasks 📝
 
