@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/seandinwiddie/night-lilies-mud#readme",
   "dependencies": {
-    "expo": "^44.0.0",
     "expo-constants": "^12.1.1",
     "expo-status-bar": "~1.2.0",
     "lowdb": "^2.0.0",
@@ -31,5 +30,8 @@
     "react-native-web": "0.17.1",
     "react-redux": "^7.2.6",
     "redux": "^4.1.2"
+  },
+  "devDependencies": {
+    "expo": "^48.0.15"
   }
 }
