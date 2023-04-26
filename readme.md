@@ -13,12 +13,12 @@ Night Lilies is a MUD
 ### User Stories 📖
 
 * As a player, I want to be able to:
-** create a Wraith: The Oblivion character 👤
-** move my character around the game world using text-based commands 🚶
-** interact w/ NPCs using text commands 🗣️
-** see a list of available commands and their descriptions 📜
-** see my character's status, including health and inventory 💪🎒
-** engage in combat w/ NPCs using text commands ⚔️
+  1. create a Wraith: The Oblivion character 👤
+  2. move my character around the game world using text-based commands 🚶
+  3. interact w/ NPCs using text commands 🗣️
+  4. see a list of available commands and their descriptions 📜
+  5. see my character's status, including health and inventory 💪🎒
+  6. engage in combat w/ NPCs using text commands ⚔️
 
 ### Tasks 📝
 
