@@ -1,0 +1,22 @@
+{
+  "name": "night-lilies-mud",
+  "version": "1.0.0",
+  "description": "a mud",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seandinwiddie/night-lilies-mud.git"
+  },
+  "keywords": [
+    "mud"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seandinwiddie/night-lilies-mud/issues"
+  },
+  "homepage": "https://github.com/seandinwiddie/night-lilies-mud#readme"
+}
